@@ -4,5 +4,5 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 
 ## Sketches
 
-1 - [10,000 particles with custom geometry](https://aferriss.github.io/genuary/1-1/)
-2 - [Dither drawer](https://aferriss.github.io/genuary/1-2/)
+1. [10,000 particles with custom geometry](https://aferriss.github.io/genuary/1-1/)
+2. [Dither drawer](https://aferriss.github.io/genuary/1-2/)
