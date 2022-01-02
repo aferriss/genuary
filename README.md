@@ -4,4 +4,4 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 
 ## Sketches
 
-1 - 10,000 particles with custom geometry.
+1 - [10,000 particles with custom geometry](https://aferriss.github.io/genuary/1-1/)
