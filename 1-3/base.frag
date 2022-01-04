@@ -17,7 +17,7 @@ void main () {
 	vec2 fuv = floor(vTexCoord * steps) / steps;
 
 	// Create a gradient
-	float l = 1.0-clamp(length(fuv *2.0 - 1.0), 0.0, 1.0);
+	float l = 1.0-clamp(length(fuv * 2.0 - 1.0), 0.0, 1.0);
 
 	// Step over it ot get star shapes
 	l = step(vrand, l);

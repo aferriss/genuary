@@ -18,8 +18,10 @@ uniform vec2 res;
 varying float vrz;
 varying float vrand;
 
+uniform float seed;
+
 float rand(vec2 co){
-    return fract(sin(dot(co.xy ,vec2(12.9898,78.233))) * 43758.5453);
+    return fract(sin(dot(co.xy + seed ,vec2(12.9898,78.233))) * 43758.5453);
 }
 
 mat4 rotationMatrix(vec3 axis, float angle){
@@ -56,14 +58,14 @@ void main (){
     float rz = rand(vec2(nid + 0.5)) * maxDist;
 
     // Add movement to the z
-    rz += time * 10.0;
+    rz += time * 8.0;
 
     // Reset 
     rz = mod(rz, maxDist);
     vrz = rz;
 
     // Scoot back so we don't see the reset
-    rz -= 1300.0;
+    rz -= 1000.0;
 
     // Add in a random position
     p.xyz += vec3(rx, ry, rz);

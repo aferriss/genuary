@@ -4,10 +4,10 @@ let renderer;
 let gl;
 
 // How many planes to make
-const nPlanes = 2000;
+const nPlanes = 10000;
 
 // Base particle size in pixels
-const sz = 20.5;
+const sz = 10;
 
 function preload() {
   shader1 = loadShader("base.vert", "base.frag");
@@ -96,13 +96,18 @@ function setup() {
 function draw() {
   background(0);
   // Use a custom shader
-  shader(shader1);
-  shader1.setUniform("time", frameCount * 0.5);
-  shader1.setUniform("res", [width, height]);
-  shader1.setUniform("nPlanes", nPlanes);
 
-  // Draw the mesh
-  model(m1);
+  // Draw our mesh n times with different seeds
+  for (let i = 0; i < 1; i++) {
+    shader(shader1);
+    shader1.setUniform("time", frameCount * 0.5);
+    shader1.setUniform("res", [width, height]);
+    shader1.setUniform("nPlanes", nPlanes);
+    shader1.setUniform("seed", i * 1.0);
+
+    // Draw the mesh
+    model(m1);
+  }
 
 
 }
