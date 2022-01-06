@@ -7,3 +7,4 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 1. [10,000 particles with custom geometry](https://aferriss.github.io/genuary/1-1/)
 2. [Dither drawer](https://aferriss.github.io/genuary/1-2/)
 3. [Space Screensaver](https://aferriss.github.io/genuary/1-3/)
+4. [Noise Flow](https://aferriss.github.io/genuary/1-4/)
