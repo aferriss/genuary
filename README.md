@@ -10,3 +10,4 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 4. [Noise Flow](https://aferriss.github.io/genuary/1-4/)
 5. [Iterative square slicing](https://aferriss.github.io/genuary/1-5/)
 6. [Sassoon Recreation](https://aferriss.github.io/genuary/1-6/)
+7. [Lewitt Lines](https://aferriss.github.io/genuary/1-7/)
