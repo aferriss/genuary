@@ -12,3 +12,4 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 6. [Sassoon Recreation](https://aferriss.github.io/genuary/1-6/)
 7. [Lewitt Lines](https://aferriss.github.io/genuary/1-7/)
 8. [Particle Curves](https://aferriss.github.io/genuary/1-8/)
+10. [Fake Neural Networks](https://aferriss.github.io/genuary/1-10/)
