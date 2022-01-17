@@ -12,5 +12,11 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 6. [Sassoon Recreation](https://aferriss.github.io/genuary/1-6/)
 7. [Lewitt Lines](https://aferriss.github.io/genuary/1-7/)
 8. [Particle Curves](https://aferriss.github.io/genuary/1-8/)
+9. Architecture - didn't do
 10. [Fake Neural Networks](https://aferriss.github.io/genuary/1-10/)
+11. No computer
 12. [Packing Spiral](https://aferriss.github.io/genuary/1-12/)
+13. [Color waves](https://aferriss.github.io/genuary/1-13/)
+14. Something you'd never make
+15. Sand
+16. [Gradient Feedback](https://aferriss.github.io/genuary/1-16/)
