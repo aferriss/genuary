@@ -18,5 +18,5 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 12. [Packing Spiral](https://aferriss.github.io/genuary/1-12/)
 13. [Color waves](https://aferriss.github.io/genuary/1-13/)
 14. Something you'd never make
-15. Sand
+15. [Sand GPU particles](https://aferriss.github.io/genuary/1-15)
 16. [Gradient Feedback](https://aferriss.github.io/genuary/1-16/)
