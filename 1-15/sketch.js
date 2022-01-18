@@ -164,27 +164,18 @@ function draw() {
 
   dataFbo.copyTo(dataFboRt);
 
-  gl.enable(gl.BLEND);
-  gl.blendFunc(gl.SRC_ALPHA, gl.ONE)
-  // fbo.begin();
-  clear(0, 0, 0, 1);
 
-  shader(planeShader);
-  planeShader.setUniform("res", [width, height]);
-  planeShader.setUniform("time", millis() / 1000);
-  planeShader.setUniform("tex0", dataFbo.getTexture());
-  planeShader.setUniform("nPlanes", nPlanes);
-  // // plane(width, height);
-  model(m1);
-  // fbo.end();
+  // gl.enable(gl.BLEND);
+  // gl.blendFunc(gl.SRC_ALPHA, gl.ONE)
+  // clear(0, 0, 0, 1);
+  // shader(planeShader);
+  // planeShader.setUniform("res", [width, height]);
+  // planeShader.setUniform("time", millis() / 1000);
+  // planeShader.setUniform("tex0", dataFbo.getTexture());
+  // planeShader.setUniform("nPlanes", nPlanes);
+  // model(m1);
 
 
-  // dataFbo.draw();
-  // fbo.draw();
-  // image(data, 0, 0, 100, 100);
-  // shader(testShader);
-  // testShader.setUniform("tex0", fbo.getTexture());
-  // // texture(fbo.getTexture());
-  // plane(width, height);
+  dataFbo.draw()
 
 }
