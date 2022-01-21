@@ -17,6 +17,10 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 11. No computer
 12. [Packing Spiral](https://aferriss.github.io/genuary/1-12/)
 13. [Color waves](https://aferriss.github.io/genuary/1-13/)
-14. Something you'd never make
+14. Something you'd never make - didn't do
 15. [Sand GPU particles](https://aferriss.github.io/genuary/1-15)
 16. [Gradient Feedback](https://aferriss.github.io/genuary/1-16/)
+17. [RGB lines](https://aferriss.github.io/genuary/1-17/)
+18. VHS
+19. Type
+20. [Sea of Shapes](https://aferriss.github.io/genuary/1-20/)
