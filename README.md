@@ -22,5 +22,5 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 16. [Gradient Feedback](https://aferriss.github.io/genuary/1-16/)
 17. [RGB lines](https://aferriss.github.io/genuary/1-17/)
 18. VHS
-19. Type
+19. [Luminari Particles](https://aferriss.github.io/genuary/1-19/)
 20. [Sea of Shapes](https://aferriss.github.io/genuary/1-20/)
