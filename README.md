@@ -24,3 +24,6 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 18. VHS
 19. [Luminari Particles](https://aferriss.github.io/genuary/1-19/)
 20. [Sea of Shapes](https://aferriss.github.io/genuary/1-20/)
+21. Combine past
+22. Something that will look different in a year
+23. [Abstract Vegetation](https://aferriss.github.io/genuary/1-23)
