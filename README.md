@@ -27,3 +27,4 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 21. Combine past
 22. Something that will look different in a year
 23. [Abstract Vegetation](https://aferriss.github.io/genuary/1-23)
+24. [PRNG feedback](https://aferriss.github.io/genuary/1-24)
