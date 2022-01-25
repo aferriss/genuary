@@ -38,7 +38,7 @@ void main(){
 
     gl_FragColor.a = 1.0;
     
-    if(time < 1.0 ){
+    if(time < 0.1 ){
       gl_FragColor.r = texture2D(tex1, uv  *0.5).r;
       gl_FragColor.g = texture2D(tex1, uv  *0.501).r;
       gl_FragColor.b = texture2D(tex1, uv  *0.505).r;
