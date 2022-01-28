@@ -28,3 +28,4 @@ Going to try and keep up with [genuary](https://genuary.art/) using p5.js. Hopef
 22. Something that will look different in a year
 23. [Abstract Vegetation](https://aferriss.github.io/genuary/1-23)
 24. [PRNG feedback](https://aferriss.github.io/genuary/1-24)
+24. [Perspective](https://aferriss.github.io/genuary/1-25)

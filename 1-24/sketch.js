@@ -27,7 +27,7 @@ function draw() {
   fbo.begin();
   clear(1, 0, 0, 1);
   shader(fb);
-  fb.setUniform("res", [fbo.width * pixelDensity(), fbo.height * pixelDensity()]);
+  fb.setUniform("res", [fbo.width, fbo.height]);
   fb.setUniform("time", millis() / 1500);
   fb.setUniform("tex0", rt.getTexture());
   fb.setUniform("tex1", rand);
